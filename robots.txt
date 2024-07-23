@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ystonory.github.io/sitemap
+Sitemap: https://ystonory.github.io/app/sitemap
+Sitemap: https://ystonory.github.io/assets/sitemap
+Sitemap: https://ystonory.github.io/css/sitemap
+Sitemap: https://ystonory.github.io/includes/sitemap
+Sitemap: https://ystonory.github.io/item/sitemap
+Sitemap: https://ystonory.github.io/src/sitemap
